@@ -1,0 +1,27 @@
+{
+  "name": "vue-gif-emoji",
+  "version": "0.0.1",
+  "description": "A vue component that gives you all gifs from tenor.com and a huge list of emojis",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abrar2005/vue-gif-emoji.git"
+  },
+  "keywords": [
+    "vue",
+    "gif",
+    "and",
+    "emoji",
+    "component"
+  ],
+  "author": "Abrar Sharif",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abrar2005/vue-gif-emoji/issues"
+  },
+  "homepage": "https://github.com/abrar2005/vue-gif-emoji#readme"
+}
